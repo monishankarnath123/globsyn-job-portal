@@ -1,0 +1,25 @@
+.divinline
+{
+    display: inline-block;
+}
+.bgfoot
+{
+    background: "image/career.jpg";
+}
+a
+{
+    color: blue;
+    text-decoration: none;
+}
+body
+{
+    background: lightgrey;
+}
+hr
+{
+    border-color: red;
+}
+#right
+{
+    padding-left: 10%;
+}
